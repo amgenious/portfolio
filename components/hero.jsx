@@ -10,7 +10,7 @@ export const Hero = () => {
       <div className='w-1 h-80 violet-gradient'></div>
         </div>
         <div>
-          <h1> <span className='text-[#915eff] text-[90px] font-bold'>Hi, I'm Henry</span></h1>
+          <h1> <span className="text-[#915eff] text-[90px] font-bold">Hi, I'm Henry</span></h1>
           <p className="mt-2 text-white text-[30px]">
             I develop user 
             interfaces, web<br className='sm:block hidden'></br> applications and moblie apps <br className='sm:block hidden'></br>
