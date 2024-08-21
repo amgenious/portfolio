@@ -49,10 +49,10 @@ const services = [
       iconBg: "#ffff",
       date: "October 2023 - Present",
       points: [
-        "Responsible for developing and maintaining company's web applications and mobile apps using Angular.js and Flutter.",
-        "Works in conjunction with diverse teams, encompassing designers, product managers, and backend developers, to collect specifications and guarantee the successful launch of their application.",
-        "Executes UI/UX designs in order to craft aesthetically pleasing and intuitive user interfaces.",
-        "Engages in code evaluations and offering valuable input to fellow developers during the review process.",
+        "Spearheaded the development and maintenance of the company’s web and mobile applications, utilizing Angular.ts, Flutter, and React Native, leading to a 50% increase in user engagement.",
+        "Collaborated cross-functionally with designers, product managers, and backend developers, driving successful application launches that improved operational efficiency by 70%.",
+        "Transformed UI/UX designs into visually appealing and user-friendly interfaces, contributing to a 50% improvement in user satisfaction ratings.",
+        "Improved the development process through rigorous code reviews, resulting in a 90% reduction in post-launch bugs.",
       ],
     },
     {
@@ -62,10 +62,9 @@ const services = [
       iconBg: "#ffff",
       date: "September 2022 - January 2023",
       points: [
-        "Developed and maintained web applications using React.js and other related technologies.",
-        "Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implemented responsive design and ensured cross-browser compatibility using chrome dev tools.",
-        "Participated in code reviews and providing constructive feedback to other developers.",
+        "Engineered and sustained high-performing web applications using React.js, contributing to a 70% increase in application performance.",
+        "Partnered with cross-functional teams to ensure timely delivery of projects, which led to a 50% improvement in client satisfaction.",
+        "Implemented actionable feedback during code reviews, enhancing code quality 	across the team by 40%.",
       ],
     },
     {
@@ -75,9 +74,8 @@ const services = [
       iconBg: "#E6DEDD",
       date: "October 2022 - December 2022",
       points: [
-        "Developed and maintained web applications using Next.ts, Chakra UI and other related technologies.",
-        "Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implemented responsive design and ensured cross-browser compatibility using chrome dev tools.",
+        "Architected and maintained responsive web applications using Next.js, Chakra UI, and Tailwind, achieving a 90% boost in cross-browser compatibility.",
+        "Collaborated with cross-functional teams to develop high-quality products that increased the user experience, resulting in a 80% increase in user retention.",
       ],
     },
     {

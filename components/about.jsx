@@ -11,7 +11,7 @@ export const AboutPage = () => {
         <div className="mt-4 text-[#aaa6c3] text-[17px] leading-[30px]">
        <p>
     Experience in JavaScript, and expertise in frameworks
-    like React, Nextjs, Angular, Node.js and Three.js for web development. Experience in dart and good in the flutter frameworks for mobile development. I'm a quick learner
+    like React, Next, Angular, Node.js and Three.js for web development. Experience in dart and good in the flutter frameworks for mobile development. I'm a quick learner
     and collaborate closely with clients to create efficient,
     scalable, and user-friendly solutions that solve
     real-world problems. Let's work together to bring your
