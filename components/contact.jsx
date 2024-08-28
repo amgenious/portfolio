@@ -1,5 +1,6 @@
 'use client'
 import { useState, useRef } from 'react'
+import { Linkedin, Mail, MessageCircle } from 'lucide-react';
 
 export const ContactPage = () => {
     const formRef = useRef();
@@ -21,7 +22,7 @@ export const ContactPage = () => {
         <h3
         className="text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]"
         >Contact.</h3>
-        <form
+        {/* <form
           ref={formRef}
           onSubmit={handleSubmit}
           className="mt-12 flex flex-col gap-8"
@@ -74,7 +75,21 @@ export const ContactPage = () => {
               {loading ? 'Sending...': 'Send'}
 
             </button>
-        </form>
+        </form> */}
+        <div className='p-5 w-full flex gap-5 flex-wrap'>
+          <div className='flex gap-2'>
+          <Mail />
+           henrytweneboah956@gmail.com
+          </div>
+          <div className='flex gap-2'>
+          <MessageCircle />
+           +233 500164618 or +233 200039099
+          </div>
+          <div className='flex gap-2'>
+          <Linkedin />
+           Henry Tweneboah
+          </div>
+        </div>
     </div>
 
                     </div>

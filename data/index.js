@@ -306,7 +306,7 @@ const services = [
     {
       name: "Chare",
       web_link:"https://charehome.vercel.app",
-      category:"webapp",
+      category:"web",
       description:" This is website that allows users to store data on the web for them. It also available for all platforms",
       tags: [
         {
@@ -347,7 +347,7 @@ const services = [
     {
       name: "URC Learning Hub",
       web_link:"https://urc-codes.github.io/learning_hub_frontend/",
-      category:"webapp",
+      category:"web",
       description:
         "A web application where users can get access to free books and videos on some skills such as graphic designing, web development, mobile development, ai and machine learning and general programming",
       tags: [
