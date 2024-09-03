@@ -38,10 +38,13 @@ import chare from "./chare.png"
 import nubsuenr from "./nubs_uenr.png";
 import urc from "./urc.png";
 import urc_learning_hub from "./urc_learning_hub.png";
+import voteadmin from "./admin.png";
+import voteuser from "./user.png";
+import mydesign from "./mydesigns.png";
 
 export{
     passenger,ecommerce,ecommerce1,ecommerce2,todo,maket,chare,nubsuenr,urc,urc_learning_hub,
     css,figma,git,html,javascript,mongodb,nextjs,nodejs,
     reactjs,tailwind,typescript,angular,bootstrap,flutter,firebase,
-    solartaxi,bismuth,ecg,techathon,threejs,
+    solartaxi,bismuth,ecg,techathon,threejs,voteadmin,voteuser,mydesign,
     menu,close,web,mobile,graphic,backend}

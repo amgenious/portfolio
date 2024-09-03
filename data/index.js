@@ -1,4 +1,4 @@
-import { angular, backend, bismuth, bootstrap, chare, css, ecg, ecommerce, ecommerce1, ecommerce2, figma, firebase, flutter, git, graphic, html, javascript, mobile, mongodb, nextjs, nodejs, nubsuenr, passenger, reactjs, solartaxi, tailwind, techathon, threejs, todo, typescript, urc, urc_learning_hub, web } from "@/assets";
+import { angular, backend, bismuth, bootstrap, chare, css, ecg, ecommerce, ecommerce1, ecommerce2, figma, firebase, flutter, git, graphic, html, javascript, mobile, mongodb, mydesign, nextjs, nodejs, nubsuenr, passenger, reactjs, solartaxi, tailwind, techathon, threejs, todo, typescript, urc, urc_learning_hub, voteadmin, voteuser, web } from "@/assets";
 
 const navigationlinks = [
     {
@@ -28,7 +28,7 @@ const services = [
       icon: web,
     },
     {
-      title: "Mobile App Developer (Flutter)",
+      title: "Mobile App Developer (Flutter & React Native)",
       icon: mobile,
     },
     {
@@ -274,6 +274,79 @@ const services = [
         },
       ],
       image: ecommerce1,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "Admin Voting System",
+      category:"web",
+      web_link:"https://adminvotingsystem.vercel.app",
+      description:
+        "This is a web app for am admin to create elections, clubs and ballot paper of an election. The admin can also add members to a club to enable them to vote",
+      tags: [
+        {
+          name: "Next ts",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "firebase",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Clerk",
+          color: "orange-text-gradient",
+        },
+        {
+          name: "website",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: voteadmin,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "User Voting System",
+      category:"web",
+      web_link:"https://uservotingsystem.vercel.app",
+      description:
+        "This is an online voting system that allow users to vote in a particular club that is he/she is added to vote during their elections",
+      tags: [
+        {
+          name: "Next ts",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "firebase",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Clerk",
+          color: "orange-text-gradient",
+        },
+        {
+          name: "website",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: voteuser,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "My designs",
+      category:"web",
+      web_link:"https://mydesigns.vercel.app",
+      description:
+        "This is a platform where I show case my graphic design skills and the psds are all free to download",
+      tags: [
+        {
+          name: "Next js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "website",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: mydesign,
       source_code_link: "https://github.com/",
     },
     {
