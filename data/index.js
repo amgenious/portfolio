@@ -49,7 +49,7 @@ const services = [
       iconBg: "#ffff",
       date: "October 2023 - Present",
       points: [
-        "Spearheaded the development and maintenance of the company’s web and mobile applications, utilizing Angular.ts, Flutter, and React Native, leading to a 50% increase in user engagement.",
+        "Spearheaded the development and maintenance of the company’s web and mobile applications, utilizing Angular.ts, Flutter, and React Native, leading to a 50% increase in user engagement.",
         "Collaborated cross-functionally with designers, product managers, and backend developers, driving successful application launches that improved operational efficiency by 70%.",
         "Transformed UI/UX designs into visually appealing and user-friendly interfaces, contributing to a 50% improvement in user satisfaction ratings.",
         "Improved the development process through rigorous code reviews, resulting in a 90% reduction in post-launch bugs.",
