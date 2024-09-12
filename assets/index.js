@@ -41,10 +41,11 @@ import urc_learning_hub from "./urc_learning_hub.png";
 import voteadmin from "./admin.png";
 import voteuser from "./user.png";
 import mydesign from "./mydesigns.png";
+import threedshirt from "./3dshirt.png";
 
 export{
     passenger,ecommerce,ecommerce1,ecommerce2,todo,maket,chare,nubsuenr,urc,urc_learning_hub,
-    css,figma,git,html,javascript,mongodb,nextjs,nodejs,
+    css,figma,git,html,javascript,mongodb,nextjs,nodejs,threedshirt,
     reactjs,tailwind,typescript,angular,bootstrap,flutter,firebase,
     solartaxi,bismuth,ecg,techathon,threejs,voteadmin,voteuser,mydesign,
     menu,close,web,mobile,graphic,backend}

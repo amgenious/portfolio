@@ -1,4 +1,4 @@
-import { angular, backend, bismuth, bootstrap, chare, css, ecg, ecommerce, ecommerce1, ecommerce2, figma, firebase, flutter, git, graphic, html, javascript, mobile, mongodb, mydesign, nextjs, nodejs, nubsuenr, passenger, reactjs, solartaxi, tailwind, techathon, threejs, todo, typescript, urc, urc_learning_hub, voteadmin, voteuser, web } from "@/assets";
+import { angular, backend, bismuth, bootstrap, chare, css, ecg, ecommerce, ecommerce1, ecommerce2, figma, firebase, flutter, git, graphic, html, javascript, mobile, mongodb, mydesign, nextjs, nodejs, nubsuenr, passenger, reactjs, solartaxi, tailwind, techathon, threedshirt, threejs, todo, typescript, urc, urc_learning_hub, voteadmin, voteuser, web } from "@/assets";
 
 const navigationlinks = [
     {
@@ -274,6 +274,33 @@ const services = [
         },
       ],
       image: ecommerce1,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "3D Shirt Editor",
+      category:"web",
+      web_link:"https://3d-shirt-navy.vercel.app/",
+      description:
+        "This is a 3d Shirt Editor that allows users to upload their logos or textures and also change the color of the shirt to their preferences.",
+      tags: [
+        {
+          name: "Vite",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "React JS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Three JS",
+          color: "orange-text-gradient",
+        },
+        {
+          name: "website",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: threedshirt,
       source_code_link: "https://github.com/",
     },
     {
