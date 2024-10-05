@@ -44,10 +44,10 @@ const services = [
   const experiences = [
     {
       title: "Software Developer ",
-      company_name: "Solar Taxi",
+      company_name: "SolarTaxi Company Limited",
       icon: solartaxi,
       iconBg: "#ffff",
-      date: "October 2023 - Present",
+      date: "October 2023 - September 2024",
       points: [
         "Spearheaded the development and maintenance of the company’s web and mobile applications, utilizing Angular.ts, Flutter, and React Native, leading to a 50% increase in user engagement.",
         "Collaborated cross-functionally with designers, product managers, and backend developers, driving successful application launches that improved operational efficiency by 70%.",
