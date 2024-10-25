@@ -10,8 +10,8 @@ export const AboutPage = () => {
         <h2 className="text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]">Overview</h2>
         <div className="mt-4 text-[#aaa6c3] text-[17px] leading-[30px]">
        <p>
-    Experience in JavaScript, and expertise in frameworks
-    like React, Next, Angular, Node.js and Three.js for web development. Experience in dart and good in the flutter frameworks for mobile development. I'm a quick learner
+    Experience in JavaScript and Typescript, also expertise in frameworks
+    like React, Next, Angular, Node.js and Three.js for web development. React-Native for mobile app development. Experience in dart and good in the flutter frameworks also for mobile development. I'm a quick learner
     and collaborate closely with clients to create efficient,
     scalable, and user-friendly solutions that solve
     real-world problems. Let's work together to bring your

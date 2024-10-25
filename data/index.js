@@ -1,4 +1,4 @@
-import { angular, backend, bismuth, bootstrap, chare, css, ecg, ecommerce, ecommerce1, ecommerce2, figma, firebase, flutter, git, graphic, html, javascript, mobile, mongodb, mydesign, nextjs, nodejs, nubsuenr, passenger, reactjs, solartaxi, tailwind, techathon, threedshirt, threejs, todo, typescript, urc, urc_learning_hub, voteadmin, voteuser, web } from "@/assets";
+import { angular, Aora, backend, bismuth, bootstrap, Business, chare, css, ecg, ecommerce, ecommerce1, ecommerce2, figma, firebase, flutter, git, graphic, html, javascript, mobile, mongodb, mydesign, nextjs, nodejs, nubsuenr, passenger, reactjs, solartaxi, tailwind, techathon, threedshirt, threejs, todo, typescript, Uberclone, urc, urc_learning_hub, voteadmin, voteuser, web } from "@/assets";
 
 const navigationlinks = [
     {
@@ -161,6 +161,91 @@ const services = [
   ];
 
   const projects = [
+    {
+      name: "Uber-clone",
+      web_link:"",
+      category:"app",
+      description:
+        "This is an uber clone. It allows users to book ride and make payment of their rides during or after they have reached their destination",
+      tags: [
+        {
+          name: "React-Native",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Clerk",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Neon",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Stripe",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mobile-app",
+          color: "orange-text-gradient",
+        },
+      ],
+      image: Uberclone,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "Aora App",
+      web_link:"",
+      category:"app",
+      description:
+        "Aora is a platform the allows user to post videos and pictures of themselves or any memorable event in their life",
+      tags: [
+        {
+          name: "React-Native",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Clerk",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Firebase",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "mobile-app",
+          color: "orange-text-gradient",
+        },
+      ],
+      image: Aora,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "Create Business App",
+      web_link:"",
+      category:"app",
+      description:
+        "This is an app the allows user to create any business of their choice and share with their customers to buy from them.",
+      tags: [
+        {
+          name: "React-Native",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Clerk",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Firbase",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "mobile-app",
+          color: "orange-text-gradient",
+        },
+      ],
+      image: Business,
+      source_code_link: "https://github.com/",
+    },
     {
       name: "Todo App",
       web_link:"https://drive.google.com/file/d/1WmTL3JtjQVwTnnxhYP01ojEzViNQbqnm/view?usp=sharing",
