@@ -26,7 +26,7 @@ import bootstrap from "./bootstrap.png";
 import nextjs from "./next.png";
 import flutter from "./flutter.jpg";
 import firebase from "./firebase.png";
-
+import github from "./github.png";
 import passenger from "./passenger_app.png"
 import ecommerce from "./ecommerce.png"
 import ecommerce1 from "./ecommerce1.png"
@@ -49,7 +49,7 @@ import Uberclone from "./Uberclone.jpg"
 
 export{
     passenger,ecommerce,ecommerce1,ecommerce2,todo,maket,chare,nubsuenr,urc,urc_learning_hub,
-    css,figma,git,html,javascript,mongodb,nextjs,nodejs,threedshirt,
+    css,figma,git,html,javascript,mongodb,nextjs,nodejs,threedshirt,github,
     reactjs,tailwind,typescript,angular,bootstrap,flutter,firebase,
     solartaxi,bismuth,ecg,techathon,threejs,voteadmin,voteuser,mydesign,Aora,Business,Uberclone,
     menu,close,web,mobile,graphic,backend}

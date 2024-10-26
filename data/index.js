@@ -190,7 +190,7 @@ const services = [
         },
       ],
       image: Uberclone,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/amgenious/uberclone",
     },
     {
       name: "Aora App",
@@ -217,7 +217,7 @@ const services = [
         },
       ],
       image: Aora,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/amgenious/aora",
     },
     {
       name: "Create Business App",
@@ -244,7 +244,7 @@ const services = [
         },
       ],
       image: Business,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/amgenious/business_app",
     },
     {
       name: "Todo App",
@@ -267,7 +267,7 @@ const services = [
         },
       ],
       image: todo,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/amgenious/todo-app",
     },
     {
       name: "Ecommerce App",
@@ -290,7 +290,7 @@ const services = [
         },
       ],
       image: ecommerce2,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/amgenious/ecommence-nike",
     },
     {
       name: "Solar Taxi Passenger App*",
@@ -339,7 +339,7 @@ const services = [
       source_code_link: "https://github.com/",
     },
     {
-      name: "Ecommerce App 2*",
+      name: "Norandy Ecommerce App",
       web_link:"",
       category:"app",
       description:
@@ -350,7 +350,7 @@ const services = [
           color: "blue-text-gradient",
         },
         {
-          name: "Nodejs",
+          name: "Firebase",
           color: "green-text-gradient",
         },
         {
@@ -359,7 +359,7 @@ const services = [
         },
       ],
       image: ecommerce1,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/amgenious/ecommerce-norandy",
     },
     {
       name: "3D Shirt Editor",
@@ -386,7 +386,7 @@ const services = [
         },
       ],
       image: threedshirt,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/amgenious/3D-shirt",
     },
     {
       name: "Admin Voting System",
@@ -413,7 +413,7 @@ const services = [
         },
       ],
       image: voteadmin,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/amgenious/vehicle-management-system-admin",
     },
     {
       name: "User Voting System",
@@ -440,7 +440,7 @@ const services = [
         },
       ],
       image: voteuser,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/amgenious/vehicle-management-system-employee",
     },
     {
       name: "My designs",
@@ -459,7 +459,7 @@ const services = [
         },
       ],
       image: mydesign,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/amgenious/mydesign",
     },
     {
       name: "Nubs Uenr",
@@ -508,7 +508,7 @@ const services = [
         },
       ],
       image: chare,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/amgenious/chare_v1",
     },
     {
       name: "Uenr Robotics Club (urc)",
