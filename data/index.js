@@ -492,7 +492,7 @@ const services = [
       name: "Chare",
       web_link:"https://charehome.vercel.app",
       category:"web",
-      description:" This is website that allows users to store data on the web for them. It also available for all platforms",
+      description:" This is website that allows users to store data on the web for them.",
       tags: [
         {
           name: "nextjs",
