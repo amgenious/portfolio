@@ -49,10 +49,10 @@ const services = [
       iconBg: "#ffff",
       date: "October 2023 - September 2024",
       points: [
-        "Spearheaded the development and maintenance of the company’s web and mobile applications, utilizing Angular.ts, Flutter, and React Native, leading to a 50% increase in user engagement.",
-        "Collaborated cross-functionally with designers, product managers, and backend developers, driving successful application launches that improved operational efficiency by 70%.",
-        "Transformed UI/UX designs into visually appealing and user-friendly interfaces, contributing to a 50% improvement in user satisfaction ratings.",
-        "Improved the development process through rigorous code reviews, resulting in a 90% reduction in post-launch bugs.",
+        "Spearheaded the development and maintenance of the company’s web and mobile applications, utilizing Angular.ts, Flutter, and React Native, leading to an increase in user engagement.",
+        "Collaborated cross-functionally with designers, product managers, and backend developers, driving successful application launches that improved operational efficiency.",
+        "Transformed UI/UX designs into visually appealing and user-friendly interfaces, contributing to an improvement in user satisfaction ratings.",
+        "Improved the development process through rigorous code reviews, resulting in reduction in post-launch bugs.",
       ],
     },
     {
@@ -62,9 +62,9 @@ const services = [
       iconBg: "#ffff",
       date: "September 2022 - January 2023",
       points: [
-        "Engineered and sustained high-performing web applications using React.js, contributing to a 70% increase in application performance.",
-        "Partnered with cross-functional teams to ensure timely delivery of projects, which led to a 50% improvement in client satisfaction.",
-        "Implemented actionable feedback during code reviews, enhancing code quality 	across the team by 40%.",
+        "Engineered and sustained high-performing web applications using React.js, contributing to an increase in application performance.",
+        "Partnered with cross-functional teams to ensure timely delivery of projects, which led to an improvement in client satisfaction.",
+        "Implemented actionable feedback during code reviews, enhancing code quality 	across the team.",
       ],
     },
     {
@@ -74,12 +74,12 @@ const services = [
       iconBg: "#E6DEDD",
       date: "October 2022 - December 2022",
       points: [
-        "Architected and maintained responsive web applications using Next.js, Chakra UI, and Tailwind, achieving a 90% boost in cross-browser compatibility.",
-        "Collaborated with cross-functional teams to develop high-quality products that increased the user experience, resulting in a 80% increase in user retention.",
+        "Architected and maintained responsive web applications using Next.js, Chakra UI, and Tailwind, achieving a boost in cross-browser compatibility.",
+        "Collaborated with cross-functional teams to develop high-quality products that increased the user experience, resulting in an increase in user retention.",
       ],
     },
     {
-      title: "IT Support Engineer (Intern)",
+      title: "IT Support Engineer",
       company_name: "Electricity Company of Ghana (ECG)",
       icon: ecg,
       iconBg: "#E6DEDD",
