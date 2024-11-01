@@ -62,7 +62,7 @@ const services = [
       iconBg: "#ffff",
       date: "September 2022 - January 2023",
       points: [
-        "Engineered and sustained high-performing web application named Dujj 		using React, contributing to an increase in application performance and user 	experience.",
+        "Engineered and sustained high-performing web application named Dujj using React, contributing to an increase in application performance and user 	experience.",
         "Partnered with cross-functional teams to ensure timely delivery of projects, which led to an improvement in client satisfaction.",
         "Implemented actionable feedback during code reviews, enhancing code quality 	across the team.",
       ],
