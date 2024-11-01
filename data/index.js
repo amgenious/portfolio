@@ -49,7 +49,7 @@ const services = [
       iconBg: "#ffff",
       date: "October 2023 - September 2024",
       points: [
-        "Spearheaded the development and maintenance of the company’s web and mobile applications, utilizing Angular.ts, Flutter, and React Native, leading to an increase in user engagement.",
+        "Spearheaded the development and maintenance of  SolarTaxi’s Fleet Management App, Bus Transit App and Ride Hailing App, utilizing Angular, Flutter, and React Native, leading to an  increase in user engagement.",
         "Collaborated cross-functionally with designers, product managers, and backend developers, driving successful application launches that improved operational efficiency.",
         "Transformed UI/UX designs into visually appealing and user-friendly interfaces, contributing to an improvement in user satisfaction ratings.",
         "Improved the development process through rigorous code reviews, resulting in reduction in post-launch bugs.",
@@ -62,7 +62,7 @@ const services = [
       iconBg: "#ffff",
       date: "September 2022 - January 2023",
       points: [
-        "Engineered and sustained high-performing web applications using React.js, contributing to an increase in application performance.",
+        "Engineered and sustained high-performing web application named Dujj 		using React, contributing to an increase in application performance and user 	experience.",
         "Partnered with cross-functional teams to ensure timely delivery of projects, which led to an improvement in client satisfaction.",
         "Implemented actionable feedback during code reviews, enhancing code quality 	across the team.",
       ],
@@ -74,7 +74,7 @@ const services = [
       iconBg: "#E6DEDD",
       date: "October 2022 - December 2022",
       points: [
-        "Architected and maintained responsive web applications using Next.js, Chakra UI, and Tailwind, achieving a boost in cross-browser compatibility.",
+        "Architected and maintained responsive web applications using Next, Chakra UI, and Tailwind, achieving a boost in cross-browser compatibility and increase in user experience",
         "Collaborated with cross-functional teams to develop high-quality products that increased the user experience, resulting in an increase in user retention.",
       ],
     },
