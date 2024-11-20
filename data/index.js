@@ -162,6 +162,33 @@ const services = [
 
   const projects = [
     {
+      name: "Startups Pitch ",
+      web_link:"https://startups-directory-chi.vercel.app/",
+      category:"web",
+      description:
+        "This is a web platform where startups can show case and pitch their project ideas for VCs to fund their projects if necessary",
+      tags: [
+        {
+          name: "Next",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Github Auth",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Sanity",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "website",
+          color: "orange-text-gradient",
+        },
+      ],
+      image: Uberclone,
+      source_code_link: "https://github.com/amgenious/uberclone",
+    },
+    {
       name: "Uber-clone",
       web_link:"",
       category:"app",

@@ -42,6 +42,7 @@ import voteadmin from "./admin.png";
 import voteuser from "./user.png";
 import mydesign from "./mydesigns.png";
 import threedshirt from "./3dshirt.png";
+import startups from "./startups.png";
 
 import Aora from './Aora.jpg'
 import Business from "./Business.jpg"
@@ -50,6 +51,6 @@ import Uberclone from "./Uberclone.jpg"
 export{
     passenger,ecommerce,ecommerce1,ecommerce2,todo,maket,chare,nubsuenr,urc,urc_learning_hub,
     css,figma,git,html,javascript,mongodb,nextjs,nodejs,threedshirt,github,
-    reactjs,tailwind,typescript,angular,bootstrap,flutter,firebase,
+    reactjs,tailwind,typescript,angular,bootstrap,flutter,firebase,startups,
     solartaxi,bismuth,ecg,techathon,threejs,voteadmin,voteuser,mydesign,Aora,Business,Uberclone,
     menu,close,web,mobile,graphic,backend}
