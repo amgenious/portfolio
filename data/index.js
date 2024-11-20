@@ -1,4 +1,4 @@
-import { angular, Aora, backend, bismuth, bootstrap, Business, chare, css, ecg, ecommerce, ecommerce1, ecommerce2, figma, firebase, flutter, git, graphic, html, javascript, mobile, mongodb, mydesign, nextjs, nodejs, nubsuenr, passenger, reactjs, solartaxi, tailwind, techathon, threedshirt, threejs, todo, typescript, Uberclone, urc, urc_learning_hub, voteadmin, voteuser, web } from "@/assets";
+import { angular, Aora, backend, bismuth, bootstrap, Business, chare, css, ecg, ecommerce, ecommerce1, ecommerce2, figma, firebase, flutter, git, graphic, html, javascript, mobile, mongodb, mydesign, nextjs, nodejs, nubsuenr, passenger, reactjs, solartaxi, startups, tailwind, techathon, threedshirt, threejs, todo, typescript, Uberclone, urc, urc_learning_hub, voteadmin, voteuser, web } from "@/assets";
 
 const navigationlinks = [
     {
@@ -185,8 +185,8 @@ const services = [
           color: "orange-text-gradient",
         },
       ],
-      image: Uberclone,
-      source_code_link: "https://github.com/amgenious/uberclone",
+      image: startups,
+      source_code_link: "https://github.com/amgenious/startups-directory",
     },
     {
       name: "Uber-clone",
