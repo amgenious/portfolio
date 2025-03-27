@@ -11,7 +11,6 @@ import bismuth from "./Bismuth.jpg"
 import solartaxi from "./solartaxi.png"
 
 import css from "./css.png";
-import figma from "./figma.png";
 import git from "./git.png";
 import html from "./html.png";
 import javascript from "./javascript.png";
@@ -22,9 +21,9 @@ import tailwind from "./tailwind.png";
 import typescript from "./typescript.png";
 import threejs from "./threejs.svg";
 import angular from "./angualar.png";
-import bootstrap from "./bootstrap.png";
 import nextjs from "./next.png";
-import flutter from "./flutter.jpg";
+import postgresql from "./postgresql.png"
+import appwrite from "./appwrite.png"
 import firebase from "./firebase.png";
 import github from "./github.png";
 import passenger from "./passenger_app.png"
@@ -50,7 +49,7 @@ import Uberclone from "./Uberclone.jpg"
 
 export{
     passenger,ecommerce,ecommerce1,ecommerce2,todo,maket,chare,nubsuenr,urc,urc_learning_hub,
-    css,figma,git,html,javascript,mongodb,nextjs,nodejs,threedshirt,github,
-    reactjs,tailwind,typescript,angular,bootstrap,flutter,firebase,startups,
+    css,git,html,javascript,mongodb,nextjs,nodejs,threedshirt,github,
+    reactjs,tailwind,typescript,angular,appwrite,postgresql,firebase,startups,
     solartaxi,bismuth,ecg,techathon,threejs,voteadmin,voteuser,mydesign,Aora,Business,Uberclone,
     menu,close,web,mobile,graphic,backend}

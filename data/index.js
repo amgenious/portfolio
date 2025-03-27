@@ -1,4 +1,4 @@
-import { angular, Aora, backend, bismuth, bootstrap, Business, chare, css, ecg, ecommerce, ecommerce1, ecommerce2, figma, firebase, flutter, git, graphic, html, javascript, mobile, mongodb, mydesign, nextjs, nodejs, nubsuenr, passenger, reactjs, solartaxi, startups, tailwind, techathon, threedshirt, threejs, todo, typescript, Uberclone, urc, urc_learning_hub, voteadmin, voteuser, web } from "@/assets";
+import { angular, Aora, appwrite, backend, bismuth, Business, chare, css, ecg, ecommerce, ecommerce1, ecommerce2, firebase, git, graphic, html, javascript, mobile, mongodb, mydesign, nextjs, nodejs, nubsuenr, passenger, postgresql, reactjs, solartaxi, startups, tailwind, techathon, threedshirt, threejs, todo, typescript, Uberclone, urc, urc_learning_hub, voteadmin, voteuser, web } from "@/assets";
 
 const navigationlinks = [
     {
@@ -28,17 +28,13 @@ const services = [
       icon: web,
     },
     {
-      title: "Mobile App Developer (Flutter & React Native)",
+      title: "Mobile App Developer (React Native)",
       icon: mobile,
     },
-    {
-      title: "Backend Developer",
-      icon: backend,
-    },
-    {
-      title: "Graphic Designer",
-      icon: graphic,
-    },
+    // {
+    //   title: "Backend Developer",
+    //   icon: backend,
+    // },
   ];
 
   const experiences = [
@@ -49,7 +45,7 @@ const services = [
       iconBg: "#ffff",
       date: "October 2023 - September 2024",
       points: [
-        "Spearheaded the development and maintenance of  SolarTaxi’s Fleet Management App, Bus Transit App and Ride Hailing App, utilizing Angular, Flutter, and React Native, leading to an  increase in user engagement.",
+        "Spearheaded the development and maintenance of  SolarTaxi’s Fleet Management App, Bus Transit App and Ride Hailing App, utilizing Angular, Flutter, and React Native, leading to an  increase in user engagement.",
         "Collaborated cross-functionally with designers, product managers, and backend developers, driving successful application launches that improved operational efficiency.",
         "Transformed UI/UX designs into visually appealing and user-friendly interfaces, contributing to an improvement in user satisfaction ratings.",
         "Improved the development process through rigorous code reviews, resulting in reduction in post-launch bugs.",
@@ -94,10 +90,6 @@ const services = [
   
   const technologies = [
     {
-      name: "Flutter",
-      icon: flutter,
-    },
-    {
       name: "Firebase",
       icon: firebase,
     },
@@ -122,6 +114,10 @@ const services = [
       icon: reactjs,
     },
     {
+      name: "React Native",
+      icon: reactjs,
+    },
+    {
       name: "Tailwind CSS",
       icon: tailwind,
     },
@@ -142,20 +138,20 @@ const services = [
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
-    },
-    {
       name: "Angular",
       icon: angular,
     },
     {
-      name: "Bootstrap",
-      icon: bootstrap,
-    },
-    {
       name: "Next",
       icon: nextjs,
+    },
+    {
+      name: "Postgre Sql",
+      icon: postgresql,
+    },
+    {
+      name: "Appwrite",
+      icon: appwrite,
     },
 
   ];

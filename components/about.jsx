@@ -11,13 +11,13 @@ export const AboutPage = () => {
         <div className="mt-4 text-[#aaa6c3] text-[17px] leading-[30px]">
        <p>
     Experience in JavaScript and Typescript, also expertise in frameworks
-    like React, Next, Angular, Node.js and Three.js for web development. React-Native for mobile app development. Experience in dart and good in the flutter frameworks also for mobile development. I'm a quick learner
+    like React, Next, Angular, Node.js and Three.js for web development. React-Native for mobile app development. I'm a quick learner
     and collaborate closely with clients to create efficient,
     scalable, and user-friendly solutions that solve
     real-world problems. Let's work together to bring your
     ideas to life!
         </p> 
-    <p>You can get in contact with me through my mail <i><b>henrytweneboah956@gmail.com</b></i></p>
+    <p>You can get in contact with me through my mail <a href="mailto:henrytweneboah956@gmail.com"><i><b>henrytweneboah956@gmail.com</b></i></a></p>
         </div>
         <div className='mt-20 mb-10 flex justify-center items-center flex-wrap gap-10'>
         {

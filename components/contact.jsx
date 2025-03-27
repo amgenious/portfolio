@@ -1,6 +1,6 @@
 'use client'
 import { useState, useRef } from 'react'
-import { Linkedin, Mail, MessageCircle } from 'lucide-react';
+import { Github, Linkedin, Mail, MessageCircle, Phone } from 'lucide-react';
 
 export const ContactPage = () => {
     const formRef = useRef();
@@ -79,15 +79,31 @@ export const ContactPage = () => {
         <div className='p-5 w-full flex gap-5 flex-wrap'>
           <div className='flex gap-2'>
           <Mail />
-           henrytweneboah956@gmail.com
+          <a href='mailto:henrytweneboah956@gmail.com'> henrytweneboah956@gmail.com </a>
+          </div>
+          <div className='flex gap-2'>
+          <Phone />
+          <a>  
+           +233 200039099
+          </a>
           </div>
           <div className='flex gap-2'>
           <MessageCircle />
-           +233 500164618 or +233 200039099
+          <a>  
+           +233 500164618
+          </a>
           </div>
           <div className='flex gap-2'>
           <Linkedin />
+          <a href='https://www.linkedin.com/in/henrytweneboah/'>  
            Henry Tweneboah
+          </a>
+          </div>
+          <div className='flex gap-2'>
+          <Github />
+          <a href='https://github.com/amgenious'>
+           Henry Tweneboah
+          </a>  
           </div>
         </div>
     </div>
