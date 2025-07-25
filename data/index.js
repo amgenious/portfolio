@@ -1,4 +1,4 @@
-import { angular, Aora, appwrite, backend, bismuth, Business, chare, css, ecg, ecommerce, ecommerce1, ecommerce2, firebase, git, graphic, html, javascript, mobile, mongodb, mydesign, nextjs, nodejs, nubsuenr, passenger, postgresql, reactjs, solartaxi, startups, tailwind, techathon, threedshirt, threejs, todo, typescript, Uberclone, urc, urc_learning_hub, voteadmin, voteuser, web } from "@/assets";
+import { angular, Aora, appwrite, backend, bismuth, Business, chare, css, ecg, ecommerce, ecommerce1, ecommerce2, firebase, flutter, git, graphic, html, ikolilu, javascript, mobile, mongodb, mydesign, nextjs, nodejs, nubsuenr, passenger, postgresql, reactjs, solartaxi, startups, tailwind, techathon, threedshirt, threejs, todo, typescript, Uberclone, urc, urc_learning_hub, voteadmin, voteuser, web } from "@/assets";
 
 const navigationlinks = [
     {
@@ -28,7 +28,7 @@ const services = [
       icon: web,
     },
     {
-      title: "Mobile App Developer (React Native)",
+      title: "Mobile App Developer (React Native and Flutter)",
       icon: mobile,
     },
     // {
@@ -38,6 +38,17 @@ const services = [
   ];
 
   const experiences = [
+    {
+      title: "Mobile App Developer (Freelancing) ",
+      company_name: "ikolilu",
+      icon: ikolilu,
+      iconBg: "#ffff",
+      date: "December 2024 - Present",
+      points: [
+        "Built and maintained iKolilu Parents Portal and iKolilu People App using React Native.",
+        "Deployed apps to Google Play Store, increasing user engagement and mobile accessibility."
+      ],
+    },
     {
       title: "Software Developer ",
       company_name: "SolarTaxi Company Limited",
@@ -152,6 +163,10 @@ const services = [
     {
       name: "Appwrite",
       icon: appwrite,
+    },
+    {
+      name: "Flutter",
+      icon: flutter,
     },
 
   ];
