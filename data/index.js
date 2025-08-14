@@ -28,7 +28,7 @@ const services = [
       icon: web,
     },
     {
-      title: "Mobile App Developer (React Native and Flutter)",
+      title: "Mobile App Developer (React Native)",
       icon: mobile,
     },
     // {
@@ -163,10 +163,6 @@ const services = [
     {
       name: "Appwrite",
       icon: appwrite,
-    },
-    {
-      name: "Flutter",
-      icon: flutter,
     },
 
   ];
