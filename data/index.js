@@ -1,4 +1,4 @@
-import { angular, Aora, appwrite, backend, bismuth, Business, chare, css, ecg, ecommerce, ecommerce1, ecommerce2, firebase, flutter, git, graphic, html, ikolilu, javascript, mobile, mongodb, mydesign, nextjs, nodejs, nubsuenr, passenger, postgresql, reactjs, solartaxi, startups, tailwind, techathon, threedshirt, threejs, todo, typescript, Uberclone, urc, urc_learning_hub, voteadmin, voteuser, web } from "@/assets";
+import { angular, Aora, appwrite, backend, bismuth, Business, chare, css, ecg, ecommerce, ecommerce1, ecommerce2, firebase, flutter, git, graphic, html, ikolilu, javascript, mobile, mongodb, mydesign, nextjs, nodejs, nubsuenr, passenger, postgresql, reactjs, smartwatt, solartaxi, startups, tailwind, techathon, threedshirt, threejs, todo, typescript, Uberclone, urc, urc_learning_hub, voteadmin, voteuser, web } from "@/assets";
 
 const navigationlinks = [
     {
@@ -31,13 +31,31 @@ const services = [
       title: "Mobile App Developer (React Native)",
       icon: mobile,
     },
-    // {
-    //   title: "Backend Developer",
-    //   icon: backend,
-    // },
+    {
+      title: "Backend Developer",
+      icon: backend,
+    },
   ];
 
   const experiences = [
+    {
+      title: "Lead Software Engineer",
+      company_name: "SmartWatt Company Limited",
+      icon: smartwatt,
+      iconBg: "#ffff",
+      date: "December 2024 - Present",
+      points: [
+        "Lead end-to-end software design, development, and deployment for SmartWatt products.", 
+        "Architect backend systems for EV data logging, GPS/IoT integration, and device-to-cloud communications.", 
+        "Oversee development of web and mobile interfaces for drivers, technicians, and fleet managers.",
+        "Develop firmware for microcontrollers and embedded EV components in collaboration with electrical engineers.",
+        "Maintain cybersecurity, data integrity, and system reliability across digital platforms." ,
+        "Manage cloud infrastructure, APIs, and database architecture.",
+        "Supervise software team members, code quality, version control, and sprint planning.", 
+        "Provide technical support for university training programs requiring software integration.", 
+        "Generate documentation, user manuals, and troubleshooting guides for all digital tools."
+      ],
+    },
     {
       title: "Mobile App Developer (Freelancing) ",
       company_name: "ikolilu",

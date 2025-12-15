@@ -44,6 +44,7 @@ import threedshirt from "./3dshirt.png";
 import startups from "./startups.png";
 import ikolilu from "./ikolilulogo.png"
 import flutter from "./flutter.png"
+import smartwatt from "./smartwatt.jpg"
 
 import Aora from './Aora.jpg'
 import Business from "./Business.jpg"
@@ -54,4 +55,4 @@ export{
     css,git,html,javascript,mongodb,nextjs,nodejs,threedshirt,github,flutter,
     reactjs,tailwind,typescript,angular,appwrite,postgresql,firebase,startups,ikolilu,
     solartaxi,bismuth,ecg,techathon,threejs,voteadmin,voteuser,mydesign,Aora,Business,Uberclone,
-    menu,close,web,mobile,graphic,backend}
+    menu,close,web,mobile,graphic,backend,smartwatt}
