@@ -28,8 +28,9 @@ import {
   postgresql,
   reactjs,
   smartwatt,
+  smartwatthub,
+  smartwattlab,
   solartaxi,
-  startups,
   tailwind,
   techathon,
   threedshirt,
@@ -39,8 +40,6 @@ import {
   Uberclone,
   urc,
   urc_learning_hub,
-  voteadmin,
-  voteuser,
   web,
 } from "@/assets";
 
@@ -230,31 +229,35 @@ const technologies = [
 
 const projects = [
   {
-    name: "Startups Pitch ",
-    web_link: "https://startups-directory-chi.vercel.app/",
+    name: "SmartWatt Hub ",
+    web_link: "https://smartwatthub.com/",
     category: "web",
     description:
-      "This is a web platform where startups can show case and pitch their project ideas for VCs to fund their projects if necessary",
+      "The ultimate all-in-one platform for effortless shopping, gas refills, food delivery, and professional errands.",
     tags: [
       {
         name: "Next",
         color: "blue-text-gradient",
       },
       {
-        name: "Github Auth",
+        name: "Better Auth",
         color: "green-text-gradient",
       },
       {
-        name: "Sanity",
+        name: "Neon",
         color: "pink-text-gradient",
+      },
+      {
+        name: "Server Actions",
+        color: "blue-text-gradient",
       },
       {
         name: "website",
         color: "orange-text-gradient",
       },
     ],
-    image: startups,
-    source_code_link: "https://github.com/amgenious/startups-directory",
+    image: smartwatthub,
+    source_code_link: "https://github.com/amgenious/",
   },
   {
     name: "Uber-clone",
@@ -485,60 +488,36 @@ const projects = [
     source_code_link: "https://github.com/amgenious/3D-shirt",
   },
   {
-    name: "Admin Voting System",
+    name: "SmartWatt Labs",
     category: "web",
-    web_link: "https://adminvotingsystem.vercel.app",
+    web_link: "https://smartwattlabs.vercel.app",
     description:
-      "This is a web app for am admin to create elections, clubs and ballot paper of an election. The admin can also add members to a club to enable them to vote",
+      "This is an online learning platform to learn about electric vehicles, scooters, bikes and the EV eco-system",
     tags: [
       {
-        name: "Next ts",
+        name: "Next",
         color: "blue-text-gradient",
       },
       {
-        name: "firebase",
+        name: "Neon",
         color: "green-text-gradient",
       },
       {
-        name: "Clerk",
+        name: "Better Auth",
         color: "orange-text-gradient",
+      },
+      {
+        name: "Server Actions",
+        color: "blue-text-gradient",
       },
       {
         name: "website",
         color: "pink-text-gradient",
       },
     ],
-    image: voteadmin,
+    image: smartwattlab,
     source_code_link:
       "https://github.com/amgenious/vehicle-management-system-admin",
-  },
-  {
-    name: "User Voting System",
-    category: "web",
-    web_link: "https://uservotingsystem.vercel.app",
-    description:
-      "This is an online voting system that allow users to vote in a particular club that is he/she is added to vote during their elections",
-    tags: [
-      {
-        name: "Next ts",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "firebase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Clerk",
-        color: "orange-text-gradient",
-      },
-      {
-        name: "website",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: voteuser,
-    source_code_link:
-      "https://github.com/amgenious/vehicle-management-system-employee",
   },
   {
     name: "My designs",

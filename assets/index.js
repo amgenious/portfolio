@@ -37,11 +37,9 @@ import chare from "./chare.png"
 import nubsuenr from "./nubs_uenr.png";
 import urc from "./urc.png";
 import urc_learning_hub from "./urc_learning_hub.png";
-import voteadmin from "./admin.png";
-import voteuser from "./user.png";
 import mydesign from "./mydesigns.png";
 import threedshirt from "./3dshirt.png";
-import startups from "./startups.png";
+
 import ikolilu from "./ikolilulogo.png"
 import flutter from "./flutter.png"
 import smartwatt from "./smartwatt.jpg"
@@ -49,10 +47,11 @@ import smartwatt from "./smartwatt.jpg"
 import Aora from './Aora.jpg'
 import Business from "./Business.jpg"
 import Uberclone from "./Uberclone.jpg"
-
+import smartwatthub from "./smartwatthub.PNG"
+import smartwattlab from "./smartwattlabs.PNG"
 export{
     passenger,ecommerce,ecommerce1,ecommerce2,todo,maket,chare,nubsuenr,urc,urc_learning_hub,
     css,git,html,javascript,mongodb,nextjs,nodejs,threedshirt,github,flutter,
-    reactjs,tailwind,typescript,angular,appwrite,postgresql,firebase,startups,ikolilu,
-    solartaxi,bismuth,ecg,techathon,threejs,voteadmin,voteuser,mydesign,Aora,Business,Uberclone,
+    reactjs,tailwind,typescript,angular,appwrite,postgresql,firebase,ikolilu,smartwatthub,smartwattlab,
+    solartaxi,bismuth,ecg,techathon,threejs,mydesign,Aora,Business,Uberclone,
     menu,close,web,mobile,graphic,backend,smartwatt}
