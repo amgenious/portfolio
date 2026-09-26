@@ -33,7 +33,7 @@ import {
   reactjs,
   smartwatt,
   smartwatthub,
-  smartwattlab,
+  smartwattlabs,
   solartaxi,
   tailwind,
   techathon,
@@ -535,9 +535,9 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: smartwattlab,
+    image: smartwattlabs,
     source_code_link:
-      "https://github.com/amgenious/vehicle-management-system-admin",
+      "https://github.com/amgenious/",
   },
   {
     name: "My designs",
