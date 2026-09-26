@@ -3,6 +3,7 @@ import {
   Aora,
   appwrite,
   backend,
+  betterauth,
   bismuth,
   Business,
   chare,
@@ -11,6 +12,7 @@ import {
   ecommerce,
   ecommerce1,
   ecommerce2,
+  expo,
   firebase,
   flutter,
   git,
@@ -21,6 +23,8 @@ import {
   mobile,
   mongodb,
   mydesign,
+  neon,
+  nest,
   nextjs,
   nodejs,
   nubsuenr,
@@ -224,6 +228,22 @@ const technologies = [
   {
     name: "Appwrite",
     icon: appwrite,
+  },
+  {
+    name: "Neon",
+    icon: neon,
+  },
+  {
+    name: "Expo",
+    icon: expo,
+  },
+  {
+    name: "Better-Auth",
+    icon: betterauth,
+  },
+  {
+    name: "Nest",
+    icon: nest,
   },
 ];
 

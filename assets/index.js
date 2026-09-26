@@ -49,9 +49,14 @@ import Business from "./Business.jpg"
 import Uberclone from "./Uberclone.jpg"
 import smartwatthub from "./smartwatthub.png"
 import smartwattlab from "./smartwattlabs.png"
+import neon from "./neon.png"
+import expo from "./expo.png"
+import betterauth from "./betterauth.png"
+import nest from "./nest.png"
+
 export{
     passenger,ecommerce,ecommerce1,ecommerce2,todo,maket,chare,nubsuenr,urc,urc_learning_hub,
-    css,git,html,javascript,mongodb,nextjs,nodejs,threedshirt,github,flutter,
+    css,git,html,javascript,mongodb,nextjs,nodejs,threedshirt,github,flutter,neon,expo,betterauth,
     reactjs,tailwind,typescript,angular,appwrite,postgresql,firebase,ikolilu,smartwatthub,smartwattlab,
-    solartaxi,bismuth,ecg,techathon,threejs,mydesign,Aora,Business,Uberclone,
+    solartaxi,bismuth,ecg,techathon,threejs,mydesign,Aora,Business,Uberclone,nest,
     menu,close,web,mobile,graphic,backend,smartwatt}
