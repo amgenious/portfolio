@@ -47,8 +47,8 @@ import smartwatt from "./smartwatt.jpg"
 import Aora from './Aora.jpg'
 import Business from "./Business.jpg"
 import Uberclone from "./Uberclone.jpg"
-import smartwatthub from "./smartwatthub.PNG"
-import smartwattlab from "./smartwattlabs.PNG"
+import smartwatthub from "./smartwatthub.png"
+import smartwattlab from "./smartwattlabs.png"
 export{
     passenger,ecommerce,ecommerce1,ecommerce2,todo,maket,chare,nubsuenr,urc,urc_learning_hub,
     css,git,html,javascript,mongodb,nextjs,nodejs,threedshirt,github,flutter,
